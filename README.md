@@ -15,8 +15,6 @@ Hi, I'm Vaibhav 👋🏼, a B.Tech Computer Science student passionate about cra
 
 ![](https://nirzak-streak-stats.vercel.app/?user=its-vaibhav04&theme=one_dark_pro&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=its-vaibhav04&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ### 🔝 Top Contributed Repo:
 ![](https://github-contributor-stats.vercel.app/api?username=its-vaibhav04&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 </div>
